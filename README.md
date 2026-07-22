@@ -37,7 +37,3 @@ Summary of results:
 - The language model ends up with a perplexity of about 664, and generates text that uses believable news-style words but isn't coherent yet. Full details and generated examples are in the write-up doc.
 
 More detail, the literature we referenced, and full experiment results can be found in `docs/research_and_methods.md`.
-
-## Team
-
-Clemence Umutoni
