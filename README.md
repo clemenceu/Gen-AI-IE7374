@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## What was done
 
-Started out planning to do text classification with an LSTM, but since this is a Generative AI course, I added a language modeling task too (predicting the next word in a sequence).
+Started out planning to do text classification with an LSTM, but since this is a Generative AI course, added a language modeling task too (predicting the next word in a sequence).
 
 Summary of results:
 - A simple TF-IDF + Logistic Regression baseline actually beat the LSTM classifier on this dataset (87% vs 66% accuracy). Makes sense since we only used 8,000 training examples — LSTMs need more data to learn well from scratch.
